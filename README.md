@@ -24,14 +24,22 @@ Full Name          | Team Role             | Github Username              | Spri
 ------------       | -------------         | -------------                | -------------
 Bill Corkill       | Team Lead             | wcorkill                     | Virtaul/Fall '20
 Evan Paul          | Team Lead             | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-ENTER NAME HERE    | ENTER TEAM ROLE HERE  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-ENTER NAME HERE    | ENTER TEAM ROLE HERE  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-ENTER NAME HERE    | ENTER TEAM ROLE HERE  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-ENTER NAME HERE    | ENTER TEAM ROLE HERE  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-ENTER NAME HERE    | ENTER TEAM ROLE HERE  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-ENTER NAME HERE    | ENTER TEAM ROLE HERE  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-ENTER NAME HERE    | ENTER TEAM ROLE HERE  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-ENTER NAME HERE    | ENTER TEAM ROLE HERE  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Andrew Means       | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Annie Shek         | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Jaclene Roshan     | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Mary Pustejovsky   | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Kristin Dorage     | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Kate Smiles        | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Matthew Martin     | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Tamara Wojdylo     | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Zak Kaufman        | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Peter Blair        | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Utsav Poddar       | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Jessica Rosenberg  | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Damian Hajda       | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Jacqueline Fassett | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+ENTER NAME HERE    | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+ENTER NAME HERE    | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
 
 
 ### Project Vision (Please make this your first task as a team)
