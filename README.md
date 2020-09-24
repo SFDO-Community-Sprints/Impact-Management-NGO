@@ -57,10 +57,10 @@ ENTER NAME HERE    | ENTER TEAM ROLE HERE  | ENTER GITHUB USERNAME HERE   | Virt
 * AMP Impact:
 * Social Suite: 
 
-**Data Arcitecture Resrouces
+**Data Arcitecture Resrouces**
 
 
-**Nonprofit Networks
+**Nonprofit Networks**
 * Telemetry data syncronization:
 
 
