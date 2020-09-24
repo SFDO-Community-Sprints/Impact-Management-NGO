@@ -41,7 +41,7 @@ ENTER NAME HERE    | ENTER TEAM ROLE HERE  | ENTER GITHUB USERNAME HERE   | Virt
 * Prioritize together what could make sense for a community project
 * Determine roles and next steps given the scope of the possible project(s)
 
-**2 years from now, what goals do we have?
+**2 years from now, what goals do we have?**
 * Common Arcitecture - In two years time,  we will have a lightweight framework that can  sit on top of/side by side other open source tools to support impact management
 * Nonprofit Networks - In 2 years time we have an easy way for orgs to share successful (and unsuccessful) program models
 * Making Impact Management Easier - In two years time, nonprofits will have clear step-by-step, in-app guidance for how to create their own impact strategy and data model based on a comprehensive knowledge base of sample tools & frameworks.
