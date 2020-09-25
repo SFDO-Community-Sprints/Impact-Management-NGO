@@ -15,7 +15,26 @@ We encourage you to bring this project conversation to the Power of us Hub! Plea
 Help us give you the thanks you deserve and ensure future contributors know who to contact if they have questions! Please ensure that all contributing members of the team are included.
 * Team Leader(s): Bill Corkill, Evan Paul
 * GitHub Scribe(s): Bill Corkill
-* List of all Contributors:
+
+**List of all Contributors:**
+* Raul Araiza
+* Peter Blair
+* Bill Corkill
+* Kristin Dorage
+* Jacqueline Fassett
+* Damian Hajda
+* Zak Kaufman
+* Matthew Martin
+* Andrew Means
+* Evan Paul
+* Utsav Poddar
+* Mary Pustejovsky
+* Jessica Rosenberg
+* Jaclene Roshan
+* Annie Shek
+* Kate Smiles
+* To Tsang
+* Tamara Wojdylo
 
 
 ### Past Project Team Members
@@ -24,22 +43,23 @@ Full Name          | Team Role             | Github Username              | Spri
 ------------       | -------------         | -------------                | -------------
 Bill Corkill       | Team Lead             | wcorkill                     | Virtaul/Fall '20
 Evan Paul          | Team Lead             | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-Andrew Means       | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-Annie Shek         | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-Jaclene Roshan     | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-Mary Pustejovsky   | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-Kristin Dorage     | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-Kate Smiles        | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-Matthew Martin     | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-Tamara Wojdylo     | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-Zak Kaufman        | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-Peter Blair        | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-Utsav Poddar       | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-Jessica Rosenberg  | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-Damian Hajda       | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-Jacqueline Fassett | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-ENTER NAME HERE    | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
-ENTER NAME HERE    | Team                  | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Raul Araiza        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Peter Blair        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Kristin Dorage     | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Jacqueline Fassett | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Damian Hajda       | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Zak Kaufman        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Matthew Martin     | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Andrew Means       | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Utsav Poddar       | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Mary Pustejovsky   | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Jessica Rosenberg  | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Jaclene Roshan     | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Annie Shek         | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Kate Smiles        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+To Tsang           | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+Tamara Wojdylo     | Team Member           | ENTER GITHUB USERNAME HERE   | Virtaul/Fall '20
+
 
 
 ### Project Vision (Please make this your first task as a team)
@@ -62,8 +82,8 @@ ENTER NAME HERE    | Team                  | ENTER GITHUB USERNAME HERE   | Virt
  * SF Community Impact Report 2020: https://www.salesforce.org/blog/announcing-salesforce-org-community-impact-report-2020
  * SF Impact Responsibility: https://www.salesforce.org/about-us/impacting-responsibly
  * SF Security Principles around Privacy (COVID related): https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Privacy/privacy-and-ethical-use-principles-guiding-our-covid-19-response.pdf
-* AMP Impact:
-* Social Suite: 
+* Vera Solutions-AMP Impact: https://www.verasolutions.org/ampimpact/?locale=en
+* Social Suite: https://socialsuitehq.com/
 
 **Data Arcitecture Resrouces**
 
