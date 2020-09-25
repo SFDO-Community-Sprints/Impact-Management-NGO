@@ -92,7 +92,7 @@ Tamara Wojdylo     | Team Member           | ENTER GITHUB USERNAME HERE   | Virt
 * Telemetry data syncronization:
 
 
-**Making Impact Easier
+**Making Impact Easier**
 Tools and resources to consder leveraging to make Impact Management easier
 *Trailhead Impact Module: https://trailhead.salesforce.com/en/content/learn/modules/impact-management-basics
 *In-app Guidance: https://releasenotes.docs.salesforce.com/en-us/summer20/release-notes/rn_customhelp_builder.htm
