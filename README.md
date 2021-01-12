@@ -98,8 +98,9 @@ Tools and resources to consder leveraging to make Impact Management easier
 *In-app Guidance: https://releasenotes.docs.salesforce.com/en-us/summer20/release-notes/rn_customhelp_builder.htm
 
 ### Project Team Accomplishments
-Delevoped 2 year Goals, Challenges and 3 sub-teams to tackle the varioues pieces to help teach Impact Management more broadly accross the sector.
+* [01/04/2021-02/01/2021] We are focusing in on a lightweight solution that will help organizations begin measuring the initial outcomes of their programs. We have opted to focus on small-to-medium direct service nonprofits with limited impact management infrastructure, as the theoretical customer. Over the next few weeks, we'll be conducting interviews with nonprofits that fit this profile to learn more about their approach to evaluation and impact. Questions can be viewed and shared here: https://docs.google.com/forms/d/e/1FAIpQLSeU0Z2CXGIRbFqxnLzhQn3HtxTnJqm0ZcAf1crj2iBPgWq98w/viewform
 
+* [2020] Delevoped 2 year Goals, Challenges and 3 sub-teams to tackle the varioues pieces to help teach Impact Management more broadly accross the sector.
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
 Often, it takes multiple Sprints to contribute an idea back into the Community. What happens at a Sprint does not stay at a Sprint! If someone were to contribute to this project at the next Sprint what would you want them to work on to move this project forward?<br>
