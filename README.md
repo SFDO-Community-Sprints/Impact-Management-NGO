@@ -12,8 +12,8 @@ https://powerofus.force.com/s/group/0F91E000000LmUOSA0/sprint-project-impact-man
 
 ### Current Project Team
 Help us give you the thanks you deserve and ensure future contributors know who to contact if they have questions! Please ensure that all contributing members of the team are included.
-* Team Leader(s): Bill Corkill, Matthew Martin, Jessica Rosenberg
-* GitHub Scribe(s): Bill Corkill
+* Team Leader(s): Bill Corkill
+* GitHub Scribe(s): Jessica Rosenberg
 
 **List of all Contributors:**
 * Raul Araiza
@@ -111,11 +111,11 @@ Specifically, we hope to come out of the sprint having defined the custom object
  
 If you have worked for, or with, a small to medium sized nonprofit we would especially appreciate your input – no advanced Salesforce expertise required! We want to build a solution that can help meet as many use cases as possible while focusing on the most common scenarios and approaches.
  
-If you would like to share your nonprofit’s use case in advance of the sprint, we have set up a form to help collect and build a small library of use cases to design towards. If you would take 15-20 minutes to share with us your org’s current approach to collecting program impact data, it would directly contribute this sprint: https://docs.google.com/forms/d/e/1FAIpQLSeU0Z2CXGIRbFqxnLzhQn3HtxTnJqm0ZcAf1crj2iBPgWq98w/viewform
+If you would like to share your nonprofit’s use case in advance of the sprint, we have set up a form to help collect and build a small library of use cases to design towards. If you would take 15-20 minutes to share with us your org’s current approach to collecting program impact data, it would directly contribute this sprint: https://docs.google.com/forms/d/e/1FAIpQLSeU0Z2CXGIRbFqxnLzhQn3HtxTnJqm0ZcAf1crj2iBPgWq98w/viewform. Even if you can't make the sprint, please fill out the survey. Every response helps!
  
 ### Project Documentation
 TBD
 
 **Important**: 
-* Help Wanted: If you would like to share your nonprofit’s use case in advance of the sprint, we have set up a form to help collect and build a small library of use cases to design towards. If you would take 15-20 minutes to share with us your org’s current approach to collecting program impact data, it would directly contribute this sprint: https://docs.google.com/forms/d/e/1FAIpQLSeU0Z2CXGIRbFqxnLzhQn3HtxTnJqm0ZcAf1crj2iBPgWq98w/viewform
+* Help Wanted: If you would like to share your nonprofit’s use case in advance of the sprint, we have set up a form to help collect and build a small library of use cases to design towards. If you would take 15-20 minutes to share with us your org’s current approach to collecting program impact data, it would directly contribute this sprint: https://docs.google.com/forms/d/e/1FAIpQLSeU0Z2CXGIRbFqxnLzhQn3HtxTnJqm0ZcAf1crj2iBPgWq98w/viewform  Even if you can't make the sprint, please fill out the survey. Every response helps!
 
