@@ -1,0 +1,25 @@
+minimum_cumulusci_version: '3.27.0'
+project:
+    name: Impact-Management-NGO
+    package:
+        name: Impact-Management-NGO
+        namespace: Impact-Management-NGO
+        api_version: '50.0'
+    git:
+    source_format: sfdx
+
+tasks:
+    robot:
+        options:
+            suites: robot/Impact-Management-NGO/tests
+            options:
+                outputdir: robot/Impact-Management-NGO/results
+
+    robot_testdoc:
+        options:
+            path: robot/Impact-Management-NGO/tests
+            output: robot/Impact-Management-NGO/doc/Impact-Management-NGO_tests.html
+
+    run_tests:
+        options:
+            required_org_code_coverage_percent: 75
