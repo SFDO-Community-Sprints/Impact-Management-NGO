@@ -52,7 +52,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
 Full Name          | Team Role             | Github Username              | Sprint(s)
 ------------       | -------------         | -------------                | -------------
 Bill Corkill       | Team Lead             | wcorkill                     | Virtual/Fall '20
-Jessica Rosenberg  | Team Lead             | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
+Jessica Rosenberg  | Team Lead             | jessbr                       | Virtual/Fall '20
 Matthew Martin     | Team Lead             | mattmartin26                 | Virtual/Fall '20
 Raul Araiza        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
 Peter Blair        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
@@ -69,16 +69,17 @@ Annie Shek         | Team Member           | ENTER GITHUB USERNAME HERE   | Virt
 Kate Smiles        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
 To Tsang           | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
 Tamara Wojdylo     | Team Member           | TamaraWo                     | Virtual/Fall '20
-Dan Flanigan       | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
+Dan Flanigan       | Team Member           | danflanigan                  | Virtual/Fall '21
 Peter White        | Team Member           | pawhite-gh                   | Virtual/Fall '21
 Justin Barss       | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
 Abby Morrow        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
 Eugene Chan        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
 Jay Delaune        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
-Katie Kourtakis    | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
+Katie Kourtakis    | Team Member           | KourKatie                    | Virtual/Fall '21
 Maria Lawler       | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
 Rachel Bloom       | Team Member           | rbloom-echots                | Virtual/Fall '21
-Victor Nininger    | Team Member           | vnininger                    | Virtual/Fall '21
+Victor Nininger    | Team Member           | dbreedveld                   | Virtual/Fall '21
+Daniel Breed       | Team Member           | vnininger                    | Virtual/Fall '21
 
 
 ### Project Vision (Please make this your first task as a team)
