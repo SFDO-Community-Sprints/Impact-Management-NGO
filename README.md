@@ -44,6 +44,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
 * Maria Lawler (Feb 21) 
 * Rachel Bloom (Feb 21)
 * Victor Nininger (Feb 21)
+* Daniel Breedveld (Feb 21)
 
 
 
@@ -78,8 +79,8 @@ Jay Delaune        | Team Member           | ENTER GITHUB USERNAME HERE   | Virt
 Katie Kourtakis    | Team Member           | KourKatie                    | Virtual/Fall '21
 Maria Lawler       | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
 Rachel Bloom       | Team Member           | rbloom-echots                | Virtual/Fall '21
-Victor Nininger    | Team Member           | dbreedveld                   | Virtual/Fall '21
-Daniel Breed       | Team Member           | vnininger                    | Virtual/Fall '21
+Victor Nininger    | Team Member           | vnininger                    | Virtual/Fall '21
+Daniel Breedveld   | Team Member           | dbreedveld                   | Virtual/Fall '21
 
 
 ### Project Vision (Please make this your first task as a team)
