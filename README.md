@@ -114,8 +114,9 @@ Daniel Breed       | Team Member           | vnininger                    | Virt
 
 **Making Impact Easier**
 Tools and resources to conisder leveraging to make Impact Management easier
-*Trailhead Impact Module: https://trailhead.salesforce.com/en/content/learn/modules/impact-management-basics
-*In-app Guidance: https://releasenotes.docs.salesforce.com/en-us/summer20/release-notes/rn_customhelp_builder.htm
+
+* Trailhead Impact Module: https://trailhead.salesforce.com/en/content/learn/modules/impact-management-basics
+* In-app Guidance: https://releasenotes.docs.salesforce.com/en-us/summer20/release-notes/rn_customhelp_builder.htm
 
 ### Project Team Accomplishments
 
@@ -134,7 +135,7 @@ We plan to build a small prototype app based on the ERD in Miro and begin testin
   
 If you have worked for, or with, a small to medium sized nonprofit we would especially appreciate your input – no advanced Salesforce expertise required! We want to build a solution that can help meet as many use cases as possible while focusing on the most common scenarios and approaches. 
 ### Project Documentation
-Tasks: See Github's Project Tasks
-Miro board: https://miro.com/app/board/o9J_klKEo4Y=/
-Air table: https://airtable.com/tbl3Wb1BdP5f0cIgf/viwsV1upuEvNPPQOy?blocks=hide
-LucidChart ERD: https://lucid.app/lucidchart/invitations/accept/758b78ec-e5f3-449e-a4cf-202c681964b7
+* Tasks: See Github's Project Tasks
+* Miro board: https://miro.com/app/board/o9J_klKEo4Y=/
+* Air table: https://airtable.com/tbl3Wb1BdP5f0cIgf/viwsV1upuEvNPPQOy?blocks=hide
+* LucidChart ERD: https://lucid.app/lucidchart/invitations/accept/758b78ec-e5f3-449e-a4cf-202c681964b7
