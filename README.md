@@ -12,8 +12,8 @@ https://powerofus.force.com/s/group/0F91E000000LmUOSA0/sprint-project-impact-man
 
 ### Current Project Team
 Help us give you the thanks you deserve and ensure future contributors know who to contact if they have questions! Please ensure that all contributing members of the team are included.
-* Team Leader(s): Bill Corkill
-* GitHub Scribe(s): Jessica Rosenberg
+* Team Leader(s): Bill Corkill, Matt Martin, Jessica Rosenberg
+* GitHub Scribe(s): Jessica Rosenberg, Matt Martin
 
 **List of all Contributors:**
 * Raul Araiza
@@ -34,6 +34,17 @@ Help us give you the thanks you deserve and ensure future contributors know who 
 * Kate Smiles
 * To Tsang
 * Tamara Wojdylo
+* Dan Flanigan (Feb 21)
+* Peter White (Feb 21)
+* Justin Barss (Feb 21)
+* Abby Morrow (Feb 21)
+* Eugene Chan (Feb 21)
+* Jay Delaune (Feb 21)
+* Katie Kourtakis (Feb 21)
+* Maria Lawler (Feb 21) 
+* Rachel Bloom (Feb 21)
+* Victor Nininger (Feb 21)
+
 
 
 ### Past Project Team Members
@@ -41,24 +52,33 @@ Help us give you the thanks you deserve and ensure future contributors know who 
 Full Name          | Team Role             | Github Username              | Sprint(s)
 ------------       | -------------         | -------------                | -------------
 Bill Corkill       | Team Lead             | wcorkill                     | Virtual/Fall '20
-Evan Paul          | Team Lead             | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
+Jessica Rosenberg  | Team Lead             | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
+Matthew Martin     | Team Lead             | mattmartin26                 | Virtual/Fall '20
 Raul Araiza        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
 Peter Blair        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
 Kristin Dorage     | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
 Jacqueline Fassett | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
 Damian Hajda       | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
 Zak Kaufman        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
-Matthew Martin     | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
 Andrew Means       | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
+Evan Paul          | Team Memb             | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
 Utsav Poddar       | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
 Mary Pustejovsky   | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
-Jessica Rosenberg  | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
 Jaclene Roshan     | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
 Annie Shek         | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
 Kate Smiles        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
 To Tsang           | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
-Tamara Wojdylo     | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '20
-
+Tamara Wojdylo     | Team Member           | TamaraWo                     | Virtual/Fall '20
+Dan Flanigan       | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
+Peter White        | Team Member           | pawhite-gh                   | Virtual/Fall '21
+Justin Barss       | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
+Abby Morrow        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
+Eugene Chan        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
+Jay Delaune        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
+Katie Kourtakis    | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
+Maria Lawler       | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
+Rachel Bloom       | Team Member           | rbloom-echots                | Virtual/Fall '21
+Victor Nininger    | Team Member           | vnininger                    | Virtual/Fall '21
 
 
 ### Project Vision (Please make this your first task as a team)
@@ -97,6 +117,9 @@ Tools and resources to conisder leveraging to make Impact Management easier
 *In-app Guidance: https://releasenotes.docs.salesforce.com/en-us/summer20/release-notes/rn_customhelp_builder.htm
 
 ### Project Team Accomplishments
+
+* [02/10/2021-02/11/2021] During this February 2020 we worked in three breakout groups primarily: Lightweight data model, User Personas, and Reporting Framework. We made good progress on the identification of key personas to be developed and almost completed a first personal (see the project Miro board). The lightweight data model group worked on a basic model that includes 4 basic objects and began stress testing various use cases using the model. The reporting framework group identified various stakeholders and a handful of report types that overlapping stakeholders would likely be interested in (see Airtable board: https://airtable.com/tbl3Wb1BdP5f0cIgf/viwsV1upuEvNPPQOy?blocks=hide ) 
+
 * [01/04/2021-02/01/2021] We are focusing in on a lightweight solution that will help organizations begin measuring the initial outcomes of their programs. We have opted to focus on small-to-medium direct service nonprofits with limited impact management infrastructure, as the theoretical customer. Over the next few weeks, we'll be conducting interviews with nonprofits that fit this profile to learn more about their approach to evaluation and impact. Questions can be viewed and shared here: https://docs.google.com/forms/d/e/1FAIpQLSeU0Z2CXGIRbFqxnLzhQn3HtxTnJqm0ZcAf1crj2iBPgWq98w/viewform
 
 * [2020] Developed 2 year Goals, Challenges and 3 sub-teams to tackle the various pieces to help teach Impact Management more broadly across the sector.
@@ -104,18 +127,13 @@ Tools and resources to conisder leveraging to make Impact Management easier
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
 
 * What is your project's Roadmap?
-Created working groups to continue to work on sub-projects. 
-We’d like to frame the upcoming February sprint around drafting a lightweight data model for impact management. The intent is that this model would be flexible enough so that it can be used in conjunction with other packages and apps. Our goal is not to build an end-to-end solution for impact management - it is to develop a model that could form the base of, and enable interoperability between, a range of impact management solutions. We believe that the end-user for this solution is a small-to-medium sized nonprofit in direct service with limited impact management infrastructure. 
- 
-Specifically, we hope to come out of the sprint having defined the custom objects, fields, and object relationships that will allow for the collection of data related to indicators of impact.  We aim to design a data model that will build upon or complement other Salesforce.org products such as PMP, Outbound Funds, and VFS, without necessarily depending upon them.
- 
-If you have worked for, or with, a small to medium sized nonprofit we would especially appreciate your input – no advanced Salesforce expertise required! We want to build a solution that can help meet as many use cases as possible while focusing on the most common scenarios and approaches.
- 
-If you would like to share your nonprofit’s use case in advance of the sprint, we have set up a form to help collect and build a small library of use cases to design towards. If you would take 15-20 minutes to share with us your org’s current approach to collecting program impact data, it would directly contribute this sprint: https://docs.google.com/forms/d/e/1FAIpQLSeU0Z2CXGIRbFqxnLzhQn3HtxTnJqm0ZcAf1crj2iBPgWq98w/viewform. Even if you can't make the sprint, please fill out the survey. Every response helps!
- 
+We hope to complete at least 3 Personas that can help shape the app's development across time. 
+
+We plan to build a small prototype app based on the ERD in Miro and begin testing it against various use cases. The intent is that this model would be flexible enough so that it can be used in conjunction with other packages and apps. Our goal is not to build an end-to-end solution for impact management - it is to develop a model that could form the base of, and enable interoperability between, a range of impact management solutions. We believe that the end-user for this solution is a small-to-medium sized nonprofit in direct service with limited impact management infrastructure. 
+  
+If you have worked for, or with, a small to medium sized nonprofit we would especially appreciate your input – no advanced Salesforce expertise required! We want to build a solution that can help meet as many use cases as possible while focusing on the most common scenarios and approaches. 
 ### Project Documentation
-TBD
-
-**Important**: 
-* Help Wanted: If you would like to share your nonprofit’s use case in advance of the sprint, we have set up a form to help collect and build a small library of use cases to design towards. If you would take 15-20 minutes to share with us your org’s current approach to collecting program impact data, it would directly contribute this sprint: https://docs.google.com/forms/d/e/1FAIpQLSeU0Z2CXGIRbFqxnLzhQn3HtxTnJqm0ZcAf1crj2iBPgWq98w/viewform  Even if you can't make the sprint, please fill out the survey. Every response helps!
-
+Tasks: See Github's Project Tasks
+Miro board: https://miro.com/app/board/o9J_klKEo4Y=/
+Air table: https://airtable.com/tbl3Wb1BdP5f0cIgf/viwsV1upuEvNPPQOy?blocks=hide
+LucidChart ERD: https://lucid.app/lucidchart/invitations/accept/758b78ec-e5f3-449e-a4cf-202c681964b7
