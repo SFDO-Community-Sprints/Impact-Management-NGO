@@ -81,6 +81,7 @@ Maria Lawler       | Team Member           | ENTER GITHUB USERNAME HERE   | Virt
 Rachel Bloom       | Team Member           | rbloom-echots                | Virtual/Fall '21
 Victor Nininger    | Team Member           | vnininger                    | Virtual/Fall '21
 Daniel Breedveld   | Team Member           | dbreedveld                   | Virtual/Fall '21
+Christopher Littlefield | Team Member      | cblittlefield                | virtual/Fall '21
 
 
 ### Project Vision (Please make this your first task as a team)
